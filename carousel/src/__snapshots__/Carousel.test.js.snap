@@ -1,0 +1,46 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`works when you click on the right arrow 1`] = `
+<div>
+  <div
+    class="Carousel"
+  >
+    <h1>
+      Shells from far away beaches.
+    </h1>
+    <div
+      class="Carousel-main"
+    >
+      <i
+        class="fas fa-chevron-circle-left fa-2x"
+      />
+      <div
+        class="Card"
+      >
+        <h4
+          class="Card-title"
+        >
+          Photo by Pratik Patel on Unsplash
+        </h4>
+        <img
+          alt="Photo by Pratik Patel on Unsplash"
+          class="Card-image"
+          src="image2.jpg"
+        />
+        <small
+          class="Card-small"
+        >
+          Image 
+          2
+           of 
+          3
+          .
+        </small>
+      </div>
+      <i
+        class="fas fa-chevron-circle-right fa-2x"
+      />
+    </div>
+  </div>
+</div>
+`;

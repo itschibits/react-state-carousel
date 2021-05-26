@@ -11,6 +11,6 @@ function Card(props) {
       </small>
     </div>
   );
-}
+};
 
 export default Card;
